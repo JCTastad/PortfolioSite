@@ -1,0 +1,54 @@
+body {
+	background-image: url("s1.jpg");
+	background-repeat: no-repeat;
+	background-position: middle;
+	background-size: 175%;
+
+	}
+h1{
+	background-color: black;
+	color: red;
+	font-size: 24px;
+
+}
+
+
+.boldClass{
+	font-weight: bold;
+}
+#bigID{
+	font-size: 24px;
+}
+
+h2 {
+	color: red;
+	font-size: 48px;
+
+}
+
+h3 {
+	color: blue;
+	font-size: 18px;
+
+}
+
+h4 {
+	background-color: black;
+	color: red;
+	font-size: 48px;
+}
+
+h5 {
+	background-color: black;
+	color: red;
+	font-size: 48px;
+}
+
+.jumbotron {
+	background-color:black;
+}
+
+.carousel {
+  width:607px;
+  height:560px;
+}

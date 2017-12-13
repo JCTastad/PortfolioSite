@@ -1,0 +1,40 @@
+body {
+	background-image: url("SB1.jpg");
+	background-repeat: no-repeat;
+	background-position: middle;
+	background-size: 100%;
+
+	}
+
+h1{
+	color: black;
+	font-size: 58px;
+	background-color: green;
+}
+
+h3{
+	color: yellow;
+	font-size: 24px;
+	background-color: green;
+}
+
+.boldClass{
+	font-weight: bold;
+}
+
+div {
+	
+    border: 1px solid black;
+    margin: 30px 50px;
+    background-color: #6610f2;
+}
+
+small {
+  font-size: 95%;
+}
+
+input[type="radio"],
+input[type="checkbox"] {
+  box-sizing: border-box;
+  padding: 0;
+}

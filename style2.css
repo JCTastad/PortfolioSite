@@ -1,0 +1,32 @@
+body {
+	background-image: url("bg.jpg");
+	background-repeat: no-repeat;
+	background-position: middle;
+	background-size: 100%;
+
+	}
+h1{
+	color: red;
+	font-size: 24px;
+
+}
+
+
+.boldClass{
+	font-weight: bold;
+}
+#bigID{
+	font-size: 24px;
+}
+
+h2 {
+	color: red;
+	font-size: 48px;
+
+}
+
+h3 {
+	color: blue;
+	font-size: 18px;
+
+}
